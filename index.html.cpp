@@ -6,6 +6,14 @@ char index_html[] PROGMEM = R"=====(
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
   <title>RGB LightTower</title>
+
+  <link rel="apple-touch-icon" sizes="180x180" href="https://raw.githubusercontent.com/shilivvi/sda-lamp/master/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://raw.githubusercontent.com/shilivvi/sda-lamp/master/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://raw.githubusercontent.com/shilivvi/sda-lamp/master/favicon/favicon-16x16.png">
+  <link rel="manifest" href="https://raw.githubusercontent.com/shilivvi/sda-lamp/master/favicon/site.webmanifest">
+  <link rel="mask-icon" href="https://raw.githubusercontent.com/shilivvi/sda-lamp/master/favicon/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#00aba9">
+  <meta name="theme-color" content="#ffffff">
   
 
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
